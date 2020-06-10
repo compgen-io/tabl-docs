@@ -10,7 +10,9 @@ subsite_nav: true
 
 # tabl less
 
-This command lets you view a delimited text file in a TUI paging environment. It operates very similarly to the less command. You can scroll through rows and columns. You can also set certain columns to be "sticky", which sets them to be permanently visible while you scroll.
+This command lets you view a delimited text file in a TUI paging environment. It operates very similarly to the less command. You can scroll through rows and columns. 
+
+One unique feature is that the header values are always displayed as the top line. This way, you can keep track of the meaning for column, even if you are at the end of the file. Also, when scrolling, you can also set certain columns to be "sticky". This means that those columns are always shown, even if you are currently looking at columns further to the right.
 
 ## Usage
 
