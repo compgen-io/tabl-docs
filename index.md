@@ -13,7 +13,7 @@ Tabl (rhymes with babble) is a set of tools for viewing and working with tab-del
 
 ## Installation
 
-Tabl is a single binary is supplied on the [Github release page](https://github.com/mbreese/tabl/releases) for Mac and Linux (x86\_64/amd64). This file can be downloaded and copied to any place in your `$PATH` to install tabl. A Windows binary is also available, but it is untested.
+Tabl is a single binary, and can be downloaded from the [Github release page](https://github.com/mbreese/tabl/releases) for Mac and Linux (x86\_64/amd64). This file can be downloaded and copied to any place in your `$PATH` to install tabl. A Windows binary is also available, but it is untested. No other installation steps are needed.
 
 ## Example
 
