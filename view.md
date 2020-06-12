@@ -3,7 +3,7 @@ title: "tabl view"
 permalink: /view
 layout: home
 #nav_gap: true
-nav_order: 6
+nav_order: 7
 subsite_nav: true
 
 ---
