@@ -48,3 +48,4 @@ This command returns only selected columns from the delimited text file.
     Iris-setosa     | 1.5             | 0.2            
 
 *(piped through `tabl view` for visualization)*
+
