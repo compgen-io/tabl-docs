@@ -3,7 +3,7 @@ title: "tabl export"
 permalink: /export
 layout: home
 #nav_gap: true
-nav_order: 4
+nav_order: 5
 subsite_nav: true
 
 ---
@@ -48,3 +48,4 @@ This command returns only selected columns from the delimited text file.
     Iris-setosa     | 1.5             | 0.2            
 
 *(piped through `tabl view` for visualization)*
+
