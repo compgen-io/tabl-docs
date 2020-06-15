@@ -42,6 +42,8 @@ One unique feature is that the header values are always displayed as the top lin
     q,Ctrl-C,ESC      Quit the program
     /                 Search
     m,Enter           Mark a line
+    s                 Save marked lines to a file
+    c                 Clear marked lines
     x                 Select "sticky" columns
                       To select sticky columns, use 
                       arrow keys and hit space to toggle on/off.
